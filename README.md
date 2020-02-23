@@ -1,5 +1,11 @@
 # Labelattri
 This is a simple tool for labeling human attributes and face attributes
 
+We chose a very simple and beautiful launch screen
 
-![img](./testdata/273275,59ac6000f8f4d4ae.jpg)
+![img](./icons/start.png)
+
+And user-friendly interface
+
+
+![img](./icons/start2.png)
