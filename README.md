@@ -7,5 +7,4 @@ We chose a very simple and beautiful launch screen
 
 And user-friendly interface
 
-
 ![img](./icons/start2.png)
